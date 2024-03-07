@@ -1,10 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "es-419",
-    "en",
-    "es-MX",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "readableLineLength": false,
   "foldHeading": true,
   "foldIndent": true,
