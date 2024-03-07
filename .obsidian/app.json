@@ -1,0 +1,16 @@
+{
+  "spellcheckLanguages": [
+    "es-419",
+    "en",
+    "es-MX",
+    "en-US"
+  ],
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "vimMode": false
+}
