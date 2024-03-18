@@ -79,6 +79,21 @@ nmap --script http-enum <objetivo>
 
 -----------------
 
+### Búsquedas comunes
+
+###### Descubrimiento de puertos
+
+```Shell
+nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn [IP] -oG allPorts
+```
+
+```Shell
+nmap -sCV -p22,80,3306,8080 192.168.20.80 -oN targeted
+```
+
+##### Escaneo de los puertos encontrados
+
+
 ## Referencias
 
 [^1]: Para más comandos específicos de nmap consultar el [Enlace]([http://www.csirtcv.gva.es/nmap-6_-listado-de-comandos](http://www.csirtcv.gva.es/nmap-6_-listado-de-comandos))

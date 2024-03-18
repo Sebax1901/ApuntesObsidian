@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d6aaa00d7082d63f",
+        "id": "dab6249a9510fd95",
         "type": "tabs",
         "children": [
           {
-            "id": "f3b05fc112ab369b",
+            "id": "0947cc21e0ac1813",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20230624223854.png"
+                "file": "Gestores de Contenido/WordPress/Wpscan.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "172138340dd08d5a",
+            "id": "a4df98992c55d894",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20230624224656.png"
+                "file": "Linux/Comandos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Pasted image 20230624224656.png",
+                "file": "Gestores de Contenido/WordPress/Wpscan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Pasted image 20230624224656.png",
+                "file": "Gestores de Contenido/WordPress/Wpscan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Pasted image 20230624224656.png"
+                "file": "Gestores de Contenido/WordPress/Wpscan.md"
               }
             }
           }
@@ -155,18 +158,22 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7fda311999a190bc",
+  "active": "0947cc21e0ac1813",
   "lastOpenFiles": [
-    "Imagenes/Pasted image 20230624223854.png",
-    "Linux/Comandos.md",
-    "OWASP Top 10/RFI.md",
-    "OWASP Top 10/LFI.md",
-    "Enumeración y Explotación/Wrappers.md",
-    "Enumeración y Explotación/RCE.md",
+    "Herramientas.md",
+    "Reconocimiento/Nmap.md",
+    "Reconocimiento/Reconocimiento.md",
+    "Linux/Funciones Hacking ZSH.md",
     "OWASP Top 10/XXE.md",
     "Linux/Programación en Bash.md",
+    "Linux/Comandos.md",
     "OWASP Top 10/XSS.md",
+    "OWASP Top 10/RFI.md",
+    "OWASP Top 10/LFI.md",
     "Imagenes/Pasted image 20230624224656.png",
+    "Imagenes/Pasted image 20230624223854.png",
+    "Enumeración y Explotación/Wrappers.md",
+    "Enumeración y Explotación/RCE.md",
     "Imagenes/Pasted image 20230624223738.png",
     "Enumeración y Explotación/Enumeración del SO.md",
     "OWASP Top 10",
@@ -182,9 +189,7 @@
     "Imagenes/Pasted image 20230612223544.png",
     "Gestores de Contenido/WordPress/WordPress.md",
     "Índice.md",
-    "Reconocimiento/Nmap.md",
     "Tareas.md",
-    "Herramientas.md",
     "Imagenes/Pasted image 20230612015052.png",
     "Imagenes/Pasted image 20230612014951.png",
     "Imagenes/Pasted image 20230612014456.png",
@@ -193,7 +198,6 @@
     "Imagenes/Pasted image 20230611231007.png",
     "2023-06-12.md",
     "Enumeración y Explotación",
-    "Reconocimiento/Reconocimiento.md",
     "Linux",
     "Reconocimiento",
     "Imagenes",

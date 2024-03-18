@@ -42,17 +42,17 @@ Aquí se encontrará la recopilación de todos los comandos de linux, detallando
 
 ### Nvim
 
-| <center> Comando </center> | <center> Funcionalidad </center> |
-|---|---|
-|w|Moverse entre palabras|
-|d|borrar|
-|Alt + u|Control z|
-|dd|Borrar Lineas|
-|v|Modo Visual (Selección)|
-|y|Copiar|
-|p|Pegar|
-|o|Crea una nueva linea|
-|/|Busqueda (n para siguiente - N para el anterior)|
+| <center> Comando </center> | <center> Funcionalidad </center>                |
+| -------------------------- | ----------------------------------------------- |
+| w                          | Moverse entre palabras                          |
+| d                          | borrar                                          |
+| Alt + u                    | Control z                                       |
+| dd                         | Borrar Lineas                                   |
+| v                          | Modo Visual (Selección)                         |
+| y                          | Copiar                                          |
+| p                          | Pegar                                           |
+| o                          | Crea una nueva linea                            |
+| /                          | Busqueda (n para siguiente, N para el anterior) |
 
 ### Comandos gráficos del Sistema Operativo
 
