@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestores de Contenido/WordPress/Wpscan.md",
+                "file": "Linux/Programación en Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#explotación",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestores de Contenido/WordPress/Wpscan.md",
+                "file": "Linux/Programación en Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestores de Contenido/WordPress/Wpscan.md",
+                "file": "Linux/Programación en Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestores de Contenido/WordPress/Wpscan.md"
+                "file": "Linux/Programación en Bash.md"
               }
             }
           }
@@ -160,13 +160,17 @@
   },
   "active": "0947cc21e0ac1813",
   "lastOpenFiles": [
+    "Criptografía/Criptografía.md",
+    "Imagenes/Pasted image 20240318172122.png",
+    "Linux/Comandos.md",
+    "Gestores de Contenido/WordPress/Wpscan.md",
+    "Criptografía",
     "Herramientas.md",
     "Reconocimiento/Nmap.md",
     "Reconocimiento/Reconocimiento.md",
     "Linux/Funciones Hacking ZSH.md",
     "OWASP Top 10/XXE.md",
     "Linux/Programación en Bash.md",
-    "Linux/Comandos.md",
     "OWASP Top 10/XSS.md",
     "OWASP Top 10/RFI.md",
     "OWASP Top 10/LFI.md",
@@ -184,19 +188,15 @@
     "Enumeración y Explotación/Payloads.md",
     "Enumeración y Explotación/Malware.md",
     "Gestores de Contenido/WordPress/XMLRPC.md",
-    "Gestores de Contenido/WordPress/Wpscan.md",
     "Enumeración y Explotación/Tipos de Explotación.md",
     "Imagenes/Pasted image 20230612223544.png",
     "Gestores de Contenido/WordPress/WordPress.md",
     "Índice.md",
-    "Tareas.md",
     "Imagenes/Pasted image 20230612015052.png",
     "Imagenes/Pasted image 20230612014951.png",
     "Imagenes/Pasted image 20230612014456.png",
     "Imagenes/Pasted image 20230612014410.png",
     "Imagenes/Pasted image 20230612014307.png",
-    "Imagenes/Pasted image 20230611231007.png",
-    "2023-06-12.md",
     "Enumeración y Explotación",
     "Linux",
     "Reconocimiento",
@@ -204,7 +204,6 @@
     "Gestores de Contenido/Magento",
     "Gestores de Contenido/Drupal",
     "Gestores de Contenido/Joomla",
-    "Gestores de Contenido/WordPress",
-    "Gestores de Contenido"
+    "Gestores de Contenido/WordPress"
   ]
 }
