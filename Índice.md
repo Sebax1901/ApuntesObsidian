@@ -1,6 +1,6 @@
 ----------------
 # Linux
-- [[Comandos]]
+- [[Comandos Básicos]]
 - [[Programación en Bash]]
 ------------------------
 # Gestores de Contenido

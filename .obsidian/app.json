@@ -7,5 +7,6 @@
   "showIndentGuide": true,
   "rightToLeft": false,
   "spellcheck": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
